@@ -26,24 +26,24 @@ export default function AboutPage() {
 
   const team = [
     {
-      name: 'Rommen Limbong',
-      role: 'Koordinator Project',
-      image: 'https://i.imgur.com/E9dVhxC.jpeg',
+      name: 'Pdt. Agus S.Th',
+      role: 'Koordinator Lapangan',
+      image: 'https://i.imgur.com/3L7hUTK.jpeg',
     },
     {
-      name: 'Jajar Suprihantono',
-      role: 'Koordinator Content',
-      image: 'https://i.imgur.com/HdGbPt2.jpeg',
+      name: 'Ev. Alex Iskandar',
+      role: 'Koordinator Dana',
+      image: 'https://i.imgur.com/xHU66YX.jpeg',
     },
     {
       name: 'Hendrik Tanuwidjaja',
       role: 'Koordinator Teknis',
-      image: 'https://i.imgur.com/FSIawSn.jpeg',
+      image: 'https://i.imgur.com/XuFGvke.jpeg',
     },
     {
-      name: 'Nama Anda',
-      role: 'Mitra Sponsor Tetap',
-      image: 'https://i.imgur.com/fzXZiXK.jpeg',
+      name: 'Ev. Rommen Limbong, S.Th',
+      role: 'Koordinator Program',
+      image: 'https://i.imgur.com/gnQNmO3.jpeg',
     },
   ];
 
