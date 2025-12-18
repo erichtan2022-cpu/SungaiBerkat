@@ -53,14 +53,14 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                <a href="mailto:info@sungaiberkat.id" className="hover:text-blue-600 transition-colors">
-                  info@sungaiberkat.id
+                <a href="mailto:info@sungaiberkat.org" className="hover:text-blue-600 transition-colors">
+                  info@sungaiberkat.org
                 </a>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 flex-shrink-0" />
-                <a href="https://wa.me/6281322992600" className="hover:text-blue-600 transition-colors">
-                  +62 813-2299-2600
+                <a href="https://wa.me/6285697152120" className="hover:text-blue-600 transition-colors">
+                  +62 856-9715-2120
                 </a>
               </li>
             </ul>

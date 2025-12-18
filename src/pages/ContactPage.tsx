@@ -85,8 +85,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-bold text-gray-800 mb-1">Email</h3>
-                    <a href="mailto:info@sungaiberkat.id" className="text-blue-600 hover:text-blue-700">
-                      info@sungaiberkat.id
+                    <a href="mailto:info@sungaiberkat.org" className="text-blue-600 hover:text-blue-700">
+                      info@sungaiberkat.org
                     </a>
                   </div>
                 </div>
@@ -97,8 +97,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-bold text-gray-800 mb-1">WhatsApp</h3>
-                    <a href="https://wa.me/6281322992600" className="text-blue-600 hover:text-blue-700">
-                      +62 813-2299-2600
+                    <a href="https://wa.me/6285697152120" className="text-blue-600 hover:text-blue-700">
+                      +62 856-9715-2120
                     </a>
                   </div>
                 </div>
