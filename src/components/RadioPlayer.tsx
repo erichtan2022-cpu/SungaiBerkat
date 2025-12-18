@@ -1,7 +1,7 @@
 import { useState, useRef, useEffect } from 'react';
 import { Radio, Volume2, VolumeX } from 'lucide-react';
 
-const RADIO_URL = 'https://stream.heartline.co.id:8443/radio_yaski_stereo';
+const RADIO_URL = 'https://void.idserverhost.com/8084/stream';
 
 export default function RadioPlayer() {
   const [isPlaying, setIsPlaying] = useState(true);
