@@ -33,7 +33,7 @@ export default function AboutPage() {
     {
       name: 'Ev. Alex Iskandar',
       role: 'Koordinator Dana',
-      image: 'https://i.imgur.com/xHU66YX.jpeg',
+      image: 'https://i.imgur.com/xrKCey0.jpeg',
     },
     {
       name: 'Hendrik Tanuwidjaja',
