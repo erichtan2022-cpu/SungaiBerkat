@@ -37,7 +37,7 @@ export default function RadioPlayer() {
           className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-blue-700 text-white px-4 py-2 rounded-full hover:from-blue-700 hover:to-blue-800 transition-all shadow-lg"
         >
           <Radio className="w-5 h-5" />
-          <span className="hidden sm:inline font-medium">Radio Kasih</span>
+          <span className="hidden sm:inline font-medium">Radio Streaming</span>
         </button>
 
         {showPlayer && (
@@ -45,7 +45,7 @@ export default function RadioPlayer() {
             <div className="flex items-center justify-between mb-3">
               <div className="flex items-center gap-2">
                 <Radio className="w-5 h-5 text-blue-600" />
-                <h3 className="font-semibold text-gray-800">Radio Yaski</h3>
+                <h3 className="font-semibold text-gray-800">Radio Sungai Berkat</h3>
               </div>
               {isPlaying ? (
                 <div className="flex gap-1">
