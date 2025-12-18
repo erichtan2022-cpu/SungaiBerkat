@@ -38,7 +38,7 @@ export default function AboutPage() {
     {
       name: 'Hendrik Tanuwidjaja',
       role: 'Koordinator Teknis',
-      image: 'https://i.imgur.com/XuFGvke.jpeg',
+      image: 'https://i.imgur.com/uAOoS3w.jpeg',
     },
     {
       name: 'Ev. Rommen Limbong, S.Th',
