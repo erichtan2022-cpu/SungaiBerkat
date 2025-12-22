@@ -33,7 +33,7 @@ export default function AboutPage() {
     {
       name: 'Ev. Alex Bustan',
       role: 'Koordinator Dana',
-      image: 'https://i.imgur.com/gWQ8HDK.jpeg',
+      image: 'https://i.imgur.com/6DAvdMv.jpeg',
     },
     {
       name: 'Hendrik Tanuwidjaja',
