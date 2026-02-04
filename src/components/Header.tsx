@@ -24,7 +24,7 @@ export default function Header() {
             onClick={() => navigate('beranda')}
             className="flex items-center gap-2 hover:opacity-80 transition-opacity"
           >
-            <img src="https://i.imgur.com/ED9VR5c.png" alt="Sungai Berkat Indonesia" className="h-16 w-auto" />
+            <img src="https://i.imgur.com/cuU3eYU.png" alt="Sungai Berkat Indonesia" className="h-16 w-auto" />
           </button>
 
           <nav className="hidden lg:flex items-center gap-8">

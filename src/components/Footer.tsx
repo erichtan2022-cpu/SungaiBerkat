@@ -18,7 +18,7 @@ export default function Footer() {
       <div className="container mx-auto px-4 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
-            <img src="https://i.imgur.com/ED9VR5c.png" alt="Sungai Berkat Indonesia" className="h-20 w-auto mb-4" />
+            <img src="https://i.imgur.com/cuU3eYU.png" alt="Sungai Berkat Indonesia" className="h-20 w-auto mb-4" />
             <p className="text-gray-600 text-sm leading-relaxed italic">
               "Menghubungkan Tangan yang Memberi dengan Hati yang Membutuhkan"
             </p>
